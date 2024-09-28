@@ -1,5 +1,3 @@
-# Diwali Sales Analysis
-
 ## Project Overview
 The goal of this project is to analyze Diwali sales data to help a retail company understand customer preferences and optimize product offerings. The analysis covers:
 
